@@ -1,8 +1,8 @@
 
-😎SMART VOLUME CONTROL SYSTEM 😎
+😎(GESTURE TUNE)SMART VOLUME CONTROL SYSTEM 😎
 
 ⭐Project Overview:
-The Smart Volume Control System is an interactive program that lets users control their system’s volume using hand gestures. By tracking the positions of your index finger and thumb, this tool detects gestures and automatically raises or lowers the volume based on finger distance.
+GestureTune is an interactive program that lets users control their system’s volume using hand gestures. By tracking the positions of your index finger and thumb, this tool detects gestures and automatically raises or lowers the volume based on finger distance.
 
 ⭐How It Works:
 1. The system accesses your webcam to capture real-time video.
