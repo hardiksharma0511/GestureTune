@@ -1,5 +1,5 @@
 
-😎(GESTURE TUNE)SMART VOLUME CONTROL SYSTEM 😎
+😎GESTURE TUNE (SMART VOLUME CONTROL SYSTEM) 😎
 
 ⭐Project Overview:
 GestureTune is an interactive program that lets users control their system’s volume using hand gestures. By tracking the positions of your index finger and thumb, this tool detects gestures and automatically raises or lowers the volume based on finger distance.
